@@ -6,8 +6,8 @@ Tecnologias usadas:<br/><br/>
 Google Generative AI<br/>
 Python<br/>
 IPython<br/>
-Google Colab<br/><br/>
-Jupyter Notebook<br/>
+Google Colab<br/>
+Jupyter Notebook<br/><br/>
 
 
 [![My Skills](https://skillicons.dev/icons?i=gcp,py)](https://skillicons.dev)
