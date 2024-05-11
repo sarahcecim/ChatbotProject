@@ -5,9 +5,10 @@ Este projeto utiliza a API do Google Generative AI para interagir com um modelo 
 Tecnologias usadas:<br/><br/>
 Google Generative AI<br/>
 Python<br/>
-Jupyter Notebook<br/>
 IPython<br/>
 Google Colab<br/><br/>
+Jupyter Notebook<br/>
+
 
 [![My Skills](https://skillicons.dev/icons?i=gcp,py)](https://skillicons.dev)
 
