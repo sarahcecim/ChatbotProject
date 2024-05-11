@@ -5,10 +5,10 @@ Este projeto utiliza a API do Google Generative AI para interagir com um modelo 
 
 Tecnologias usadas:
 
-Google Generative AI
-Python
-Jupyter Notebook
-IPython
+Google Generative AI<br/>
+Python<br/>
+Jupyter Notebook<br/>
+IPython<br/>
 Google Colab
 
 </div>
