@@ -7,6 +7,7 @@ Google Generative AI<br/>
 Python<br/>
 Jupyter Notebook<br/>
 IPython<br/>
-Google Colab
+Google Colab<br/>
+[![My Skills](https://skillicons.dev/icons?i=gcp,py)](https://skillicons.dev)
 
 </div>
